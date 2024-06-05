@@ -1,0 +1,96 @@
+.content1{
+display: flex;
+font-size: 100px;
+cursor: pointer;
+justify-content: space-between;
+align-items: center;
+background-color:azure;
+
+
+}
+
+.ulcl1{
+    display: flex;
+    justify-content: space-between;
+    /* position: relative; */
+   width: 75%;
+   list-style: none;
+    /* left:565px; */
+}
+.LgB{
+background-color: black;
+text-align: center;
+width: 15%;
+width: 390px;
+height: 150px;
+font-size: 38px;
+color:azure;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+position: relative;
+left: 45px;
+justify-content: center; align-items: center;
+border-radius: 150px;
+
+}
+.mainConitainer{
+  margin:0;
+display: flex;
+width: 20%;
+padding: 500px;
+
+
+
+}
+
+
+
+
+
+
+
+.sub-1{
+  display: flex;
+  
+
+  
+}
+.sub-2{
+  display: flex;
+  
+
+  
+}
+.sub-3{
+  display: flex;
+  
+
+  
+}
+
+.sub-4{
+  display: flex;
+  
+
+  
+}
+.mid2{
+  display: flex;
+  align-items: center;
+}
+.sub-1,.sub-2,.sub-3,.sub-4
+{
+  margin: 0;
+  margin-left: 5em;
+
+
+}
+.mid2{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
